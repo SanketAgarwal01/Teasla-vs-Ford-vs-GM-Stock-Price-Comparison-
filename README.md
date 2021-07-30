@@ -8,3 +8,4 @@ Libraries Used
 2) Pandas
 3) Mpl Finance
 4) Numpy
+5) Scipy
